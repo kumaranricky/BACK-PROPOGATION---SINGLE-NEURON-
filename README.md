@@ -1,7 +1,6 @@
+### EX. NO: 04
 
-# EXP. NO: 04
-
-# DATE: 
+### DATE: 
 
 
 # <p align = "center">  BACK-PROPOGATION---SINGLE-NEURON- </p>
